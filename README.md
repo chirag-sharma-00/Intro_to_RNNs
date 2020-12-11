@@ -23,5 +23,5 @@ Our repo contains three main sections: teaching, assignments, and quiz.
   - `Warm-Up Assignment.ipynb` contains a warm-up exercise for implementing RNNs in Keras and applying them to a sequence classification task.
   - `Main Project.ipynb` is the main project notebook for the price movement classifier exercise that was described earlier and is explained in detail in the note.
 - **Solutions:** contains the solution notebooks for the 3 assignments above.
-- **Embeddings Generation:**: contains notebook and data used to generate the `embeddings.csv` file that is used in the project.
+- **Embeddings Generation:** contains notebook and data used to generate the `embeddings.csv` file that is used in the project.
 - **Quiz:** contains a brief quiz which can be used to test a student's understanding of the topics covered.
